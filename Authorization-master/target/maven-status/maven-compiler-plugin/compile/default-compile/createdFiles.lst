@@ -1,0 +1,8 @@
+ru/netology/enums/Authorities.class
+ru/netology/controller/test.class
+ru/netology/exception/InvalidCredentials.class
+ru/netology/repository/UserRepository.class
+ru/netology/service/AuthorizationService.class
+ru/netology/exception/UnauthorizedUser.class
+ru/netology/controller/AuthorizationController.class
+ru/netology/AuthorizationApplication.class

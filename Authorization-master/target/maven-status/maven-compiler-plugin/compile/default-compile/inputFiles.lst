@@ -1,0 +1,8 @@
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/AuthorizationApplication.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/service/AuthorizationService.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/controller/AuthorizationController.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/repository/UserRepository.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/enums/Authorities.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/exception/UnauthorizedUser.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/controller/test.java
+/home/mari/Загрузки/Authorization-master/src/main/java/ru/netology/exception/InvalidCredentials.java
